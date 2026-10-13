@@ -1,13 +1,19 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=560&lines=Reverse+Engineer+%7C+Malware+Analyst;Software+Engineer+%7C+C%23+%2F+C+%2F+C%2B%2B;Welcome+to+my+profile" />
+
+<br/><br/>
+
 <a href="https://github.com/Ahzer0Coder">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahzer0Coder&show_icons=true&theme=github_dark&bg_color=0d1117&custom_title=Ahzer0Coder%27s%20GitHub%20Stats&hide=stars,issues&include_all_commits=true&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahzer0Coder&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=false" height="170" />
 </a>
 <a href="https://github.com/Ahzer0Coder">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahzer0Coder&layout=donut&theme=github_dark&bg_color=0d1117&hide=html,css,astro,svelte,typescript,javascript&langs_count=6" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahzer0Coder&layout=donut&theme=github_dark&bg_color=0d1117&langs_count=6" height="170" />
 </a>
 
 </div>
+
+<br/>
 
 - 🔬 Reverse Engineering & Malware Analysis
 - 💻 Software Engineering, mostly in **C#**, then **C** and **C++**
@@ -33,5 +39,5 @@
 </p>
 
 ### 📫 How to reach me
-- Discord: `your_discord`
-- Email: `your_email[at]domain.com`
+- Discord: `https://discord.com/users/1406728434939465819`
+- Email: `ahmednagj100@gmail.com`
