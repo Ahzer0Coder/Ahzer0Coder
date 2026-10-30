@@ -20,7 +20,6 @@
 
 <p align="center">
   <a href="https://github.com/Ahzer0Coder"><img src="https://img.shields.io/badge/GITHUB-0A0C10?style=for-the-badge&logo=github&logoColor=5CFFA0" alt="GitHub"></a>
-  <a href="https://ahzer0coder.github.io"><img src="https://img.shields.io/badge/WEBSITE-0A0C10?style=for-the-badge&logo=googlechrome&logoColor=5CFFA0" alt="Website"></a>
 </p>
 
 ---
