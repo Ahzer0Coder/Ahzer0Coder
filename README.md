@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/skills-banner.svg" alt="Reverse Engineering & Malware Analysis - C, C++, C#, .NET" width="100%">
-</p>
+<img src="skills-banner.svg" alt="Reverse Engineering & Malware Analysis - C, C++, C#, .NET" width="100%">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5CFFA0&center=true&vCenter=true&width=650&lines=Reverse+Engineering;Malware+Analysis;C+%2F+C%2B%2B+%2F+C%23;Learning+.NET+internals" alt="Typing SVG">
