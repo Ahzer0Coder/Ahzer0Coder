@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="assets/metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="assets/metrics.svg" alt="GitHub Metrics" width="70%">
 </p>
 
 <p align="center">
