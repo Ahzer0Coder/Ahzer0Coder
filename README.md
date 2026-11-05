@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=5CFFA0&center=true&vCenter=true&width=650&lines=Reverse+Engineering;Malware+Analysis;C+%2F+C%2B%2B+%2F+C%23;Learning+.NET+internals" alt="Typing SVG">
 </p>
@@ -41,7 +40,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=AhZer0Coder&theme=dark&hide_border=true" alt="Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Ahzer0Coder&theme=dark&hide_border=true" alt="Streak" />
   </a>
 </p>
 
