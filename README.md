@@ -39,9 +39,10 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ahzer0Coder&hide_border=true&background=090B10&ring=5CFFA0&fire=5CFFA0&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=5CFFA0&sideLabels=AEB9C6&dates=AEB9C6" alt="Streak">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=AhZer0Coder&theme=dark&hide_border=true" alt="Streak" />
+  </a>
 </p>
 
 ## 🐍 Contribution Snake
