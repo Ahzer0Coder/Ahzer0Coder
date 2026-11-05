@@ -39,9 +39,7 @@
 ---
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Ahzer0Coder&theme=dark&hide_border=true" alt="Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats-theta-orcin.vercel.app/?user=Ahzer0Coder&theme=dark&hide_border=true" alt="Streak" />
 </p>
 
 ## 🐍 Contribution Snake
